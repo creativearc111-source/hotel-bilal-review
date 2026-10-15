@@ -1,0 +1,3 @@
+# Review build: every page is marked noindex, nofollow.
+User-agent: *
+Allow: /
